@@ -4,6 +4,7 @@ body {
   padding-top: 30px;
   margin-left: 0px;
   margin-right: 0px;
+  background-color: purple
 }
 /* ⬆⬆⬆⬆ Nav Bar Styling 
 ~~~~~ Taken From: 
@@ -32,6 +33,8 @@ ul.nav li a {
   text-decoration: none;
 }
 
+
+
 ul.nav li a:hover:not(.active) {
   background-color: yellow;
 }
@@ -42,4 +45,5 @@ ul.nav .active {
 
 h1 {
   width: 100%;
+  
 }
